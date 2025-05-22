@@ -25,10 +25,6 @@
 		{
 			"Name": "GameplayCameras",
 			"Enabled": false
-		},
-		{
-			"Name": "EnhancedInput",
-			"Enabled": false
 		}
 	]
 }
